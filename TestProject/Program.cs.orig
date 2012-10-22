@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD
+            //TODO:xieran20121022
+=======
+            //
+>>>>>>> 8ea30d93740a4a747270cf7cfab67c1d04cce16c
+        }
+    }
+}

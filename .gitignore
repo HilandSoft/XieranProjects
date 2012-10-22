@@ -1,0 +1,6 @@
+# git ignore file
+*.user           #User specific solution and project settings
+*.suo
+*.sln.cache
+[bB]in/         #Build output
+[oO]bj/
