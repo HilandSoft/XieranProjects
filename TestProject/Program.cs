@@ -13,7 +13,8 @@ namespace GitTest
             //TODO:xieran20121022
             //
             //这个在新功能分支中
-			//VXP.
+	    //VXP.
+		//qingdao.
         }
     }
 }
